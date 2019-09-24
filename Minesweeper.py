@@ -1,4 +1,5 @@
 # Importing necessary items
+# 'time' module allows delay in code execution
 import random, pygame, sys, time
 from pygame.locals import *
 
